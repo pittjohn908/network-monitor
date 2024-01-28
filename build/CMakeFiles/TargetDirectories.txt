@@ -1,3 +1,0 @@
-/home/dra2gon3/carbon/repo/network-monitor/build/CMakeFiles/network-monitor.dir
-/home/dra2gon3/carbon/repo/network-monitor/build/CMakeFiles/edit_cache.dir
-/home/dra2gon3/carbon/repo/network-monitor/build/CMakeFiles/rebuild_cache.dir
